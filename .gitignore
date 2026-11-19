@@ -1,0 +1,13 @@
+ Mengabaikan file hasil kompilasi
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Mengabaikan file log
+*.log
+
+# Mengabaikan file environment
+.env
+.env.*
